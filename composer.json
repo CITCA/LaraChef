@@ -1,0 +1,13 @@
+{
+    "name": "citca/lara-chef",
+    "description": "Complete Api, Test, Database, View, and Document generator for Laravel in less 1 minute",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "keyhan jk",
+            "email": "keyhan.jannat.khah@gmail.com"
+        }
+    ],
+    "require": {}
+}
