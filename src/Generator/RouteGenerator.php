@@ -6,6 +6,6 @@ class RouteGenerator
 {
     public static function generate()
     {
-        return 'Hello World, Composer!';
+        return 'this is a test';
     }
 }
